@@ -1,0 +1,27 @@
+table{
+    border-collapse: separate;
+}
+table, th, td{
+    border: 1px solid black;
+    border-spacing: 3px;
+    padding: 3px;
+    column-width: 300px;
+    vertical-align:top;
+    text-align: left;
+    }
+
+body{
+    font-family:'Franklin Gothic Medium';
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+p{
+    text-align: center;
+}
